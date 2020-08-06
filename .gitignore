@@ -64,3 +64,4 @@ typings/
 .next
 # Local Netlify folder
 .netlify
+/.idea/
