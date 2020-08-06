@@ -1,5 +1,13 @@
-.stack{
-    margin: 10px;
-    height: 4rem;
-    width: auto;
+.stack {
+  margin: 10px;
+  height: 4rem;
+  width: auto;
+}
+
+.recommendation {
+  margin-right: 2%;
+  float: left;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%
 }
