@@ -15,7 +15,7 @@
     "popper.js": "^1.15.0"
   },
   "devDependencies": {
-    "cssnano": "^4.1.10",
+    "cssnano": "^8.0.2",
     "gulp-clean-css": "^4.2.0",
     "gulp-concat-css": "^3.1.0"
   }
